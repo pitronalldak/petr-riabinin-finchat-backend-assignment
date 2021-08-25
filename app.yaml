@@ -1,0 +1,5 @@
+main: ./cmd
+runtime: go115
+
+env_variables:
+  STRIPE_SK: "sk_test_51JS6omAgdvziTvFsG6J8eB21ONPeY5gO5vJPKKk7a4qs0htpWHhDIBTAjMC5JfnWuip9yHEFhAWANPUiAJzZBJ9A00ZG6xJKhR"
