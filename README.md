@@ -37,6 +37,10 @@ curl https://api.stripe.com/v1/payment_methods \
 
 Other methods and test data combined in the [Postman collection](https://www.getpostman.com/collections/c9c56fd077551149d58f)
 
+### Time capacity
+- 3h implementation
+- 2h deploy + description
+
 
 
 
